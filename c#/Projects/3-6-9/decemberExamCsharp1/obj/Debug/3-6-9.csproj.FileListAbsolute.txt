@@ -1,0 +1,6 @@
+c:\users\iron\documents\visual studio 2013\Projects\3-6-9\decemberExamCsharp1\bin\Debug\decemberExamCsharp1.exe.config
+c:\users\iron\documents\visual studio 2013\Projects\3-6-9\decemberExamCsharp1\bin\Debug\decemberExamCsharp1.exe
+c:\users\iron\documents\visual studio 2013\Projects\3-6-9\decemberExamCsharp1\bin\Debug\decemberExamCsharp1.pdb
+c:\users\iron\documents\visual studio 2013\Projects\3-6-9\decemberExamCsharp1\obj\Debug\3-6-9.csprojResolveAssemblyReference.cache
+c:\users\iron\documents\visual studio 2013\Projects\3-6-9\decemberExamCsharp1\obj\Debug\decemberExamCsharp1.exe
+c:\users\iron\documents\visual studio 2013\Projects\3-6-9\decemberExamCsharp1\obj\Debug\decemberExamCsharp1.pdb
