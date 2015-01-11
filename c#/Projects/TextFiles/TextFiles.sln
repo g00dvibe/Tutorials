@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.PrintOddLines", "01.PrintOddLines\01.PrintOddLines.csproj", "{42FA5C90-3665-4498-A838-32BC24EB389E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Merge2txtFiles", "02.Merge2txtFiles\02.Merge2txtFiles.csproj", "{2D79D78B-2318-4A9D-B9C1-2097AAD29C4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42FA5C90-3665-4498-A838-32BC24EB389E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42FA5C90-3665-4498-A838-32BC24EB389E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42FA5C90-3665-4498-A838-32BC24EB389E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42FA5C90-3665-4498-A838-32BC24EB389E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D79D78B-2318-4A9D-B9C1-2097AAD29C4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D79D78B-2318-4A9D-B9C1-2097AAD29C4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D79D78B-2318-4A9D-B9C1-2097AAD29C4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D79D78B-2318-4A9D-B9C1-2097AAD29C4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
